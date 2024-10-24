@@ -7,4 +7,5 @@ Dibuat untuk KTI piala dekan FMIPA UNNES 2024. Berhasil memenangkan juara 2.
 > Sumber dataset: https://www.kaggle.com/datasets/izanfahrani/pengaruh-medsos-jam-tidur-dan-ipk-mahasiswaa/data  
 > PPT buat final: https://www.canva.com/design/DAGRfU5DYaA/C1J5awOIm1qugnWZz5qZwA/edit
 
-Bukti menang
+*Waktu itu kami pakai nama TYR ilkom C*
+![Deskripsi Gambar](WhatsApp%20Image%202024-10-13%20at%2013.39.53.jpeg)
